@@ -60,6 +60,7 @@
 | 8    | @汇率快查        | 实时外汇+加密货币行情         | [财经助手](https://t.me/CurrencyCN) |
 | 9    | @深色模式        | 网页/文档夜间模式转换         | [护眼必备](https://t.me/DarkModeCN) |
 | 10   | @网速测试        | 实时测速+网络诊断             | [网络工具](https://t.me/SpeedTestCN) |
+| 11   | **@my_weight_goal_bot** | 群组每周减重目标、照片打卡、进度图、提醒和成就，支持中文、英语和俄语 | [立即使用](https://t.me/my_weight_goal_bot) |
 
 ---
 
