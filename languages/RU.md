@@ -9,4 +9,4 @@
 ## 🏃 Здоровье и фитнес
 | Ранг | Название бота | Описание | Ссылка | Языки |
 |------|---------------|----------|--------|-------|
-| 1 | **@my_weight_goal_bot** | Еженедельные цели по снижению веса с фотоотчётами и графиками | [Открыть](https://t.me/my_weight_goal_bot) | RU, EN, ZH |
+| 1 | **@my_weight_goal_bot** | Еженедельные цели по снижению веса с фотоотчётами, графиками и 53 достижениями ([Apache-2.0](https://github.com/IgorShadurin/weight-telegram-bot)) | [Открыть](https://t.me/my_weight_goal_bot) | RU, EN, ZH, ES, PT, DE, FR, JA, ID |
